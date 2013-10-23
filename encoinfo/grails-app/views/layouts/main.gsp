@@ -20,6 +20,7 @@
                 <style type="text/css">
                  .banner-encoinfo{background: url("${resource(dir: 'images', file: 'banner-encoinfo.png')}"); }
                  .title-hello{color: #975757 !important;}
+                 a {font-size: 23px; font-weight: bold;}
                 </style>
 	</head>
 	<body>
